@@ -6,9 +6,14 @@ Monday email with "I also use X" and the routine adds it here.
 
 ## Profile
 
-- Two Linux machines (desktop + notebook): Manjaro/BigLinux, KDE Plasma 6 on
-  **X11**, zsh with oh-my-zsh (only the `git` plugin). The machines stay in
-  sync with Syncthing over Tailscale.
+- Two Linux machines, one for **work** and one **personal** (desktop +
+  notebook): Manjaro/BigLinux, KDE Plasma 6 on **X11**, zsh with oh-my-zsh
+  (only the `git` plugin).
+- **Keeping both machines and several browsers in sync is an ongoing theme:**
+  files and configs through Syncthing over Tailscale, bookmarks through Floccus
+  across Brave/Chrome/Firefox. Tools that sync data (dotfiles, shell history,
+  browser state, notes, clipboard, secrets) across machines/browsers without a
+  paid cloud are relevant.
 - Work: backend developer on a SaaS product. Python, Postgres, Docker-based
   local environments, AWS, GitHub PRs gated by a 15-job CI pipeline, git
   worktrees.
@@ -26,6 +31,7 @@ Monday email with "I also use X" and the routine adds it here.
   1. Shell & navigation: jumping between dirs/repos, finding files, logs, remembering commands
   2. Git & code review: worktrees, PR review, diffs, conflicts, CI
   3. Running AI agents: juggling many sessions, context, cost, handoffs between machines
+  4. Cross-machine / cross-browser sync: work ⇄ personal computer, Brave ⇄ Chrome ⇄ Firefox
 - **Form:** no preference between TUI/CLI and GUI.
 - **Price:** free or freemium only. Skip tools that are paid-only.
 - **Maturity:** a mix. Mostly tools that gained traction in the last few months,
@@ -44,7 +50,7 @@ Monday email with "I also use X" and the routine adds it here.
 - **AI:** Claude Code, Codex CLI, opencode, LM Studio, ai-memory
 - **DB & API clients:** DBeaver, Insomnia, Postman
 - **Dev infra:** Docker (+ compose, buildx), GitHub CLI (gh), AWS CLI, Playwright, Semgrep, gitleaks, Node/npm, Go
-- **Desktop & productivity:** Obsidian, RustDesk, Syncthing, Tailscale, KDE Connect, Klipper, Timeshift, AppImageLauncher, Brave, Chrome, Firefox, Spotify, mpv, GIMP, Okular, qBittorrent, fcitx5
+- **Desktop & productivity:** Obsidian, RustDesk, Syncthing, Floccus (bookmark sync extension), Tailscale, KDE Connect, Klipper, Timeshift, AppImageLauncher, Brave, Chrome, Firefox, Spotify, mpv, GIMP, Okular, qBittorrent, fcitx5
 - **Security:** Burp Suite, nuclei, ffuf, feroxbuster, sqlmap, nmap, testssl.sh, wafw00f, whatweb, Wireshark
 - **Hardware & radio:** KiCad, Arduino IDE, SDR++, rtl-sdr, Pwnagotchi
 - **Gaming:** Steam, Lutris, RetroArch
