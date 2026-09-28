@@ -45,7 +45,7 @@ Monday email with "I also use X" and the routine adds it here.
 
 ## Already use or know (never recommend)
 
-- **Terminal & shell:** tmux, herdr, atuin, fzf, bat, ripgrep, jq, zsh, oh-my-zsh, Konsole, AshyTerm, htop, nvtop
+- **Terminal & shell:** tmux, herdr, atuin, fzf, bat, ripgrep, jq, zsh, oh-my-zsh, Konsole, AshyTerm, htop, nvtop, eza
 - **Editors & IDEs:** VS Code, Cursor, Kiro (IDE + CLI), Orca IDE, Kate
 - **AI:** Claude Code, Codex CLI, opencode, LM Studio, ai-memory
 - **DB & API clients:** DBeaver, Insomnia, Postman
@@ -57,6 +57,6 @@ Monday email with "I also use X" and the routine adds it here.
 
 ## Known gaps
 
-These classics are not installed: zoxide, starship, eza, fd, lazygit,
+These classics are not installed: zoxide, starship, fd, lazygit,
 git-delta, btop, uv, mise, direnv. They're allowed, but they're "proven" rather
 than new, so include **at most one classic per email**.
