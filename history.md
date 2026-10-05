@@ -19,3 +19,9 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-09-28 | 4 | UniClipboard | Desktop & productivity | https://github.com/UniClipboard/UniClipboard | sent | experimental |
 | 2026-09-28 | 5 | Nerdlog | Dev & terminal | https://github.com/dimonomid/nerdlog | sent | |
 | 2026-09-28 | 6 | Strix | Wildcard (security/AI) | https://github.com/usestrix/strix | sent | |
+| 2026-10-05 | 1 | Suvadu | Dev & terminal | https://github.com/AppachiTech/suvadu | sent | pre-1.0 |
+| 2026-10-05 | 2 | deff | Dev & terminal | https://github.com/flamestro/deff | sent | |
+| 2026-10-05 | 3 | ailine | AI tooling | https://github.com/lexfrei/ailine | sent | experimental |
+| 2026-10-05 | 4 | dotsync | Desktop & productivity | https://github.com/pungoyal/dotsync | sent | experimental |
+| 2026-10-05 | 5 | mise | Dev & terminal | https://github.com/jdx/mise | sent | proven classic |
+| 2026-10-05 | 6 | HaleHound-CYD | Wildcard (hardware/security) | https://github.com/JesseCHale/HaleHound-CYD | sent | |
