@@ -42,10 +42,12 @@ Monday email with "I also use X" and the routine adds it here.
 ### Learned from feedback
 
 <!-- The routine appends taste notes here based on email replies. -->
+- 2026-10-19: Pattern across 3 digests' ratings, not an explicit comment: every "AI tooling" pick about *managing/monitoring agents themselves* (Happier, ccusage, ailine, tokscale, agent-context-os) got ❌; revdiff, which hands structured output *to* an agent rather than watching the agent, got ✅. Lean AI-tooling picks toward tools agents use/feed, not meta dashboards for agent sessions/quota/context.
+- 2026-10-19: Both clipboard-sync tools offered (UniClipboard, ssh-clipboard) got ❌ despite fitting pain point #4. Deprioritize clipboard-sync specifically; dotfile-sync (dotsync) got 👀 instead, so that angle on cross-machine sync still lands.
 
 ## Already use or know (never recommend)
 
-- **Terminal & shell:** tmux, herdr, atuin, fzf, bat, ripgrep, jq, zsh, oh-my-zsh, Konsole, AshyTerm, htop, nvtop, eza
+- **Terminal & shell:** tmux, herdr, atuin, fzf, bat, ripgrep, jq, zsh, oh-my-zsh, Konsole, AshyTerm, htop, nvtop, eza, revdiff
 - **Editors & IDEs:** VS Code, Cursor, Kiro (IDE + CLI), Orca IDE, Kate
 - **AI:** Claude Code, Codex CLI, opencode, LM Studio, ai-memory
 - **DB & API clients:** DBeaver, Insomnia, Postman
