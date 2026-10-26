@@ -44,6 +44,7 @@ Monday email with "I also use X" and the routine adds it here.
 <!-- The routine appends taste notes here based on email replies. -->
 - 2026-10-19: Pattern across 3 digests' ratings, not an explicit comment: every "AI tooling" pick about *managing/monitoring agents themselves* (Happier, ccusage, ailine, tokscale, agent-context-os) got ❌; revdiff, which hands structured output *to* an agent rather than watching the agent, got ✅. Lean AI-tooling picks toward tools agents use/feed, not meta dashboards for agent sessions/quota/context.
 - 2026-10-19: Both clipboard-sync tools offered (UniClipboard, ssh-clipboard) got ❌ despite fitting pain point #4. Deprioritize clipboard-sync specifically; dotfile-sync (dotsync) got 👀 instead, so that angle on cross-machine sync still lands.
+- 2026-10-19: All 5 main picks (ShellRS, tgrep, CLI-Anything, skills, env.sync.local) got ❌ in one digest, no comment attached — only the wildcard (ESP32 Bit Pirate) got 👀. Two of the rejects (CLI-Anything 54.9k stars, skills 35.6k stars) were already well-known/widely-covered despite recent commits, which cuts against "new beats famous." Lean harder toward genuinely lower-profile/fresher picks (hundreds to low thousands of stars) over big-name projects that merely shipped a recent release.
 
 ## Already use or know (never recommend)
 

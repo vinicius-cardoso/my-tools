@@ -31,9 +31,9 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-10-12 | 4 | agent-context-os | AI tooling | https://github.com/conorbronsdon/agent-context-os | ❌ not for me | experimental; renamed from claude-context-os |
 | 2026-10-12 | 5 | ssh-clipboard | Desktop & productivity | https://github.com/standardagents/ssh-clipboard | ❌ not for me | |
 | 2026-10-12 | 6 | esp-sdr | Wildcard (hardware/SDR) | https://github.com/ESPARGOS/esp-sdr | 👀 tried | |
-| 2026-10-19 | 1 | ShellRS | Dev & terminal | https://github.com/since2006/shell-rs | sent | experimental; pre-1.0 |
-| 2026-10-19 | 2 | tgrep | Dev & terminal | https://github.com/microsoft/tgrep | sent | |
-| 2026-10-19 | 3 | CLI-Anything | AI tooling | https://github.com/HKUDS/CLI-Anything | sent | |
-| 2026-10-19 | 4 | skills (vercel-labs) | AI tooling | https://github.com/vercel-labs/skills | sent | |
-| 2026-10-19 | 5 | env.sync.local | Desktop & productivity | https://github.com/championswimmer/env.sync.local | sent | experimental |
-| 2026-10-19 | 6 | ESP32 Bit Pirate | Wildcard (hardware/security) | https://github.com/geo-tp/ESP32-Bit-Pirate | sent | |
+| 2026-10-19 | 1 | ShellRS | Dev & terminal | https://github.com/since2006/shell-rs | ❌ not for me | experimental; pre-1.0 |
+| 2026-10-19 | 2 | tgrep | Dev & terminal | https://github.com/microsoft/tgrep | ❌ not for me | |
+| 2026-10-19 | 3 | CLI-Anything | AI tooling | https://github.com/HKUDS/CLI-Anything | ❌ not for me | |
+| 2026-10-19 | 4 | skills (vercel-labs) | AI tooling | https://github.com/vercel-labs/skills | ❌ not for me | |
+| 2026-10-19 | 5 | env.sync.local | Desktop & productivity | https://github.com/championswimmer/env.sync.local | ❌ not for me | experimental |
+| 2026-10-19 | 6 | ESP32 Bit Pirate | Wildcard (hardware/security) | https://github.com/geo-tp/ESP32-Bit-Pirate | 👀 tried | |
