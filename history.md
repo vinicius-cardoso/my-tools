@@ -37,3 +37,9 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-10-19 | 4 | skills (vercel-labs) | AI tooling | https://github.com/vercel-labs/skills | ❌ not for me | |
 | 2026-10-19 | 5 | env.sync.local | Desktop & productivity | https://github.com/championswimmer/env.sync.local | ❌ not for me | experimental |
 | 2026-10-19 | 6 | ESP32 Bit Pirate | Wildcard (hardware/security) | https://github.com/geo-tp/ESP32-Bit-Pirate | 👀 tried | |
+| 2026-10-26 | 1 | rmux | Dev & terminal | https://github.com/Helvesec/rmux | sent | |
+| 2026-10-26 | 2 | ttt | Dev & terminal | https://github.com/eugenioenko/ttt | sent | |
+| 2026-10-26 | 3 | tuicr | AI tooling | https://github.com/agavra/tuicr | sent | |
+| 2026-10-26 | 4 | codex-claude-transfer (cct) | AI tooling | https://github.com/ahmojo/codex-claude-transfer | sent | experimental; Linux support unconfirmed |
+| 2026-10-26 | 5 | Codync | AI tooling | https://github.com/leepokai/Codync | sent | |
+| 2026-10-26 | 6 | tiny-engineer | Wildcard (hardware/maker) | https://github.com/jamro/tiny-engineer | sent | |
