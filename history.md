@@ -43,9 +43,15 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-10-26 | 4 | codex-claude-transfer (cct) | AI tooling | https://github.com/ahmojo/codex-claude-transfer | sent | experimental; Linux support unconfirmed |
 | 2026-10-26 | 5 | Codync | AI tooling | https://github.com/leepokai/Codync | sent | |
 | 2026-10-26 | 6 | tiny-engineer | Wildcard (hardware/maker) | https://github.com/jamro/tiny-engineer | sent | |
-| 2026-11-02 | 1 | fsel | Dev & terminal | https://github.com/Mjoyufull/fsel | sent | |
-| 2026-11-02 | 2 | telert | Dev & terminal | https://github.com/navig-me/telert | sent | |
-| 2026-11-02 | 3 | Resterm | Dev & terminal | https://github.com/unkn0wn-root/resterm | sent | |
-| 2026-11-02 | 4 | git-lrc | AI tooling | https://github.com/HexmosTech/git-lrc | sent | cloud-by-default (Gemini/LiveReview), BYOK available |
-| 2026-11-02 | 5 | mark-shot | Desktop & productivity | https://github.com/jswysnemc/mark-shot | sent | pre-1.0, no tagged release |
-| 2026-11-02 | 6 | Oxynote | Wildcard (self-hosted) | https://github.com/oxynote/oxynote | sent | experimental |
+| 2026-11-02 | 1 | fsel | Dev & terminal | https://github.com/Mjoyufull/fsel | 👀 tried | |
+| 2026-11-02 | 2 | telert | Dev & terminal | https://github.com/navig-me/telert | ❌ not for me | |
+| 2026-11-02 | 3 | Resterm | Dev & terminal | https://github.com/unkn0wn-root/resterm | ❌ not for me | |
+| 2026-11-02 | 4 | git-lrc | AI tooling | https://github.com/HexmosTech/git-lrc | ❌ not for me | cloud-by-default (Gemini/LiveReview), BYOK available |
+| 2026-11-02 | 5 | mark-shot | Desktop & productivity | https://github.com/jswysnemc/mark-shot | 👀 tried | pre-1.0, no tagged release |
+| 2026-11-02 | 6 | Oxynote | Wildcard (self-hosted) | https://github.com/oxynote/oxynote | 👀 tried | experimental |
+| 2026-11-09 | 1 | bt | Dev & terminal | https://github.com/LeperGnome/bt | sent | |
+| 2026-11-09 | 2 | fd | Dev & terminal | https://github.com/sharkdp/fd | sent | proven classic |
+| 2026-11-09 | 3 | eprofiler-tui | Dev & terminal | https://github.com/rogercoll/eprofiler-tui | sent | |
+| 2026-11-09 | 4 | critique | AI tooling | https://github.com/remorses/critique | sent | overlaps with revdiff (adopted); web upload is opt-in |
+| 2026-11-09 | 5 | ytm-player | Desktop & productivity | https://github.com/peternaame-boop/ytm-player | sent | |
+| 2026-11-09 | 6 | sdrtop | Wildcard (SDR/hardware) | https://github.com/musithang/sdrtop | sent | early development |
