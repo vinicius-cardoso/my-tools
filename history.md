@@ -55,3 +55,9 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-11-09 | 4 | critique | AI tooling | https://github.com/remorses/critique | ❌ not for me | overlaps with revdiff (adopted); web upload is opt-in |
 | 2026-11-09 | 5 | ytm-player | Desktop & productivity | https://github.com/peternaame-boop/ytm-player | ✅ adopted | |
 | 2026-11-09 | 6 | sdrtop | Wildcard (SDR/hardware) | https://github.com/musithang/sdrtop | ✅ adopted | early development |
+| 2026-11-16 | 1 | wrkflw | Dev & terminal | https://github.com/bahdotsh/wrkflw | sent | no tagged release yet |
+| 2026-11-16 | 2 | rat-commander | Dev & terminal | https://github.com/dividebysandwich/rat-commander | sent | |
+| 2026-11-16 | 3 | agent-manager | AI tooling | https://github.com/YoanWai/agent-manager | sent | |
+| 2026-11-16 | 4 | Tabiew | Dev & terminal | https://github.com/shshemi/tabiew | sent | |
+| 2026-11-16 | 5 | kvitals | Desktop & productivity | https://github.com/yassine20011/kvitals | sent | requires Plasma 6.0+ |
+| 2026-11-16 | 6 | BruceButBetter | Wildcard (hardware/maker) | https://github.com/Yoursel71/BruceButBetter | sent | experimental |
