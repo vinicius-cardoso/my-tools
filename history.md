@@ -37,21 +37,21 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-10-19 | 4 | skills (vercel-labs) | AI tooling | https://github.com/vercel-labs/skills | ❌ not for me | |
 | 2026-10-19 | 5 | env.sync.local | Desktop & productivity | https://github.com/championswimmer/env.sync.local | ❌ not for me | experimental |
 | 2026-10-19 | 6 | ESP32 Bit Pirate | Wildcard (hardware/security) | https://github.com/geo-tp/ESP32-Bit-Pirate | 👀 tried | |
-| 2026-10-26 | 1 | rmux | Dev & terminal | https://github.com/Helvesec/rmux | sent | |
-| 2026-10-26 | 2 | ttt | Dev & terminal | https://github.com/eugenioenko/ttt | sent | |
-| 2026-10-26 | 3 | tuicr | AI tooling | https://github.com/agavra/tuicr | sent | |
-| 2026-10-26 | 4 | codex-claude-transfer (cct) | AI tooling | https://github.com/ahmojo/codex-claude-transfer | sent | experimental; Linux support unconfirmed |
-| 2026-10-26 | 5 | Codync | AI tooling | https://github.com/leepokai/Codync | sent | |
-| 2026-10-26 | 6 | tiny-engineer | Wildcard (hardware/maker) | https://github.com/jamro/tiny-engineer | sent | |
+| 2026-10-26 | 1 | rmux | Dev & terminal | https://github.com/Helvesec/rmux | 🤷 no feedback | |
+| 2026-10-26 | 2 | ttt | Dev & terminal | https://github.com/eugenioenko/ttt | 🤷 no feedback | |
+| 2026-10-26 | 3 | tuicr | AI tooling | https://github.com/agavra/tuicr | 🤷 no feedback | |
+| 2026-10-26 | 4 | codex-claude-transfer (cct) | AI tooling | https://github.com/ahmojo/codex-claude-transfer | 🤷 no feedback | experimental; Linux support unconfirmed |
+| 2026-10-26 | 5 | Codync | AI tooling | https://github.com/leepokai/Codync | 🤷 no feedback | |
+| 2026-10-26 | 6 | tiny-engineer | Wildcard (hardware/maker) | https://github.com/jamro/tiny-engineer | 🤷 no feedback | |
 | 2026-11-02 | 1 | fsel | Dev & terminal | https://github.com/Mjoyufull/fsel | 👀 tried | |
 | 2026-11-02 | 2 | telert | Dev & terminal | https://github.com/navig-me/telert | ❌ not for me | |
 | 2026-11-02 | 3 | Resterm | Dev & terminal | https://github.com/unkn0wn-root/resterm | ❌ not for me | |
 | 2026-11-02 | 4 | git-lrc | AI tooling | https://github.com/HexmosTech/git-lrc | ❌ not for me | cloud-by-default (Gemini/LiveReview), BYOK available |
 | 2026-11-02 | 5 | mark-shot | Desktop & productivity | https://github.com/jswysnemc/mark-shot | 👀 tried | pre-1.0, no tagged release |
 | 2026-11-02 | 6 | Oxynote | Wildcard (self-hosted) | https://github.com/oxynote/oxynote | 👀 tried | experimental |
-| 2026-11-09 | 1 | bt | Dev & terminal | https://github.com/LeperGnome/bt | sent | |
-| 2026-11-09 | 2 | fd | Dev & terminal | https://github.com/sharkdp/fd | sent | proven classic |
-| 2026-11-09 | 3 | eprofiler-tui | Dev & terminal | https://github.com/rogercoll/eprofiler-tui | sent | |
-| 2026-11-09 | 4 | critique | AI tooling | https://github.com/remorses/critique | sent | overlaps with revdiff (adopted); web upload is opt-in |
-| 2026-11-09 | 5 | ytm-player | Desktop & productivity | https://github.com/peternaame-boop/ytm-player | sent | |
-| 2026-11-09 | 6 | sdrtop | Wildcard (SDR/hardware) | https://github.com/musithang/sdrtop | sent | early development |
+| 2026-11-09 | 1 | bt | Dev & terminal | https://github.com/LeperGnome/bt | 👀 tried | |
+| 2026-11-09 | 2 | fd | Dev & terminal | https://github.com/sharkdp/fd | ❌ not for me | proven classic |
+| 2026-11-09 | 3 | eprofiler-tui | Dev & terminal | https://github.com/rogercoll/eprofiler-tui | ❌ not for me | |
+| 2026-11-09 | 4 | critique | AI tooling | https://github.com/remorses/critique | ❌ not for me | overlaps with revdiff (adopted); web upload is opt-in |
+| 2026-11-09 | 5 | ytm-player | Desktop & productivity | https://github.com/peternaame-boop/ytm-player | ✅ adopted | |
+| 2026-11-09 | 6 | sdrtop | Wildcard (SDR/hardware) | https://github.com/musithang/sdrtop | ✅ adopted | early development |
