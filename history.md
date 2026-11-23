@@ -55,9 +55,15 @@ Status: `sent` (no feedback yet) · `✅ adopted` · `👀 tried` · `❌ not fo
 | 2026-11-09 | 4 | critique | AI tooling | https://github.com/remorses/critique | ❌ not for me | overlaps with revdiff (adopted); web upload is opt-in |
 | 2026-11-09 | 5 | ytm-player | Desktop & productivity | https://github.com/peternaame-boop/ytm-player | ✅ adopted | |
 | 2026-11-09 | 6 | sdrtop | Wildcard (SDR/hardware) | https://github.com/musithang/sdrtop | ✅ adopted | early development |
-| 2026-11-16 | 1 | wrkflw | Dev & terminal | https://github.com/bahdotsh/wrkflw | sent | no tagged release yet |
-| 2026-11-16 | 2 | rat-commander | Dev & terminal | https://github.com/dividebysandwich/rat-commander | sent | |
-| 2026-11-16 | 3 | agent-manager | AI tooling | https://github.com/YoanWai/agent-manager | sent | |
-| 2026-11-16 | 4 | Tabiew | Dev & terminal | https://github.com/shshemi/tabiew | sent | |
-| 2026-11-16 | 5 | kvitals | Desktop & productivity | https://github.com/yassine20011/kvitals | sent | requires Plasma 6.0+ |
-| 2026-11-16 | 6 | BruceButBetter | Wildcard (hardware/maker) | https://github.com/Yoursel71/BruceButBetter | sent | experimental |
+| 2026-11-16 | 1 | wrkflw | Dev & terminal | https://github.com/bahdotsh/wrkflw | ❌ not for me | no tagged release yet |
+| 2026-11-16 | 2 | rat-commander | Dev & terminal | https://github.com/dividebysandwich/rat-commander | ❌ not for me | |
+| 2026-11-16 | 3 | agent-manager | AI tooling | https://github.com/YoanWai/agent-manager | 👀 tried | |
+| 2026-11-16 | 4 | Tabiew | Dev & terminal | https://github.com/shshemi/tabiew | ✅ adopted | |
+| 2026-11-16 | 5 | kvitals | Desktop & productivity | https://github.com/yassine20011/kvitals | ❌ not for me | requires Plasma 6.0+ |
+| 2026-11-16 | 6 | BruceButBetter | Wildcard (hardware/maker) | https://github.com/Yoursel71/BruceButBetter | ❌ not for me | experimental |
+| 2026-11-23 | 1 | gwm-cli | Dev & terminal | https://github.com/kbrdn1/gwm-cli | sent | |
+| 2026-11-23 | 2 | gitpane | Dev & terminal | https://github.com/affromero/gitpane | sent | |
+| 2026-11-23 | 3 | dunk | AI tooling | https://github.com/amix/dunk | sent | experimental; hard fork of Hunk (tried) |
+| 2026-11-23 | 4 | dotstate | Desktop & productivity | https://github.com/serkanyersen/dotstate | sent | last commit 39 days ago |
+| 2026-11-23 | 5 | Ghostman | Dev & terminal | https://github.com/4yk5/Ghostman | sent | experimental; pre-1.0 |
+| 2026-11-23 | 6 | termtastic | Wildcard (hardware/mesh radio) | https://github.com/acelot/termtastic | sent | experimental |
